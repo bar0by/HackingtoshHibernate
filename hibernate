@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# A script to use for hibernate in OS X El Capitan
+# it should work in earlier versions by replacing
+# "./yosemite_pmset" with "pmset".
+
+# For real Mac change the 29 with 25 (or use Deep Sleep)
+# for Hackingtosh leave it as it is.
+
+sudo ./yosemite_pmset -a hibernatemode 29
+open disable_hibernate.command
+pmset sleepnow
