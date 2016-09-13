@@ -1,8 +1,8 @@
 # HackingtoshHibernate by bar0by
 This package contains two scripts and an older version of pmset, I created
 them for my personal use. This works somehow like DeepSleep from:
-http://www.axoniclabs.com/DeepSleep/
-I use it when I want to shutdown the computer, but save all my work
+http://www.axoniclabs.com/DeepSleep/. I use it when I want to shutdown
+the computer, but save all my work
 especially at night, so in the morning I can continue my work.
 This will hibernate your laptop, and on resume it will
 ask you if you want to switch back to sleep mode, so you can use sleep
