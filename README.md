@@ -15,6 +15,8 @@ from there on (not hibernate).
 ## How to use it
 	Whenever you want to hibernate your laptop, just open a terminal
 	and type: "hibernate" without quotes, followed by enter.
+	A good thing will be to not close the lid until the computer is off,
+	I think it will work even if you do this, but I'm not sure.
 
 Tested only with Clover Bootloader in UEFI mode,
 make sure to uncheck NeverHibernate in config.plist
