@@ -1,5 +1,5 @@
 # HackingtoshHibernate by bar0by
-This package contains two scripts and an older version of pmset, I created
+This package contains two scripts and an older version of pmset(from Yosemite), I created
 them for my personal use. This works somehow like DeepSleep from:
 http://www.axoniclabs.com/DeepSleep/. I use it when I want to shutdown
 the computer, but save all my work
